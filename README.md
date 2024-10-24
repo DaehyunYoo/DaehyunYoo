@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## Contact
-[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://tartan-headlight-229.notion.site/Daehyun-Yoo-01b7d216bca442e0b468c1f19f1c5316?pvs=4)
-<a href="mailto:shy_11@korea.ac.kr"><img src="https://img.shields.io/badge/mail.com-blue?style=flat-square&logo=mail.com&logoColor=white&link=mailto:shy_11@korea.ac.kr"/></a>
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)](https://picturesque-gram-456.notion.site/fa6ed9fe4dc0466f948b67eabbaf973e?pvs=4)
+<a href="mailto:dh.yoo117@gmail.com"><img src="https://img.shields.io/badge/mail.com-blue?style=flat-square&logo=mail.com&logoColor=white&link=mailto:dh.yoo117@gmail.com"/></a>
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white)](https://dhy1.tistory.com/)
 
 ## Skills
